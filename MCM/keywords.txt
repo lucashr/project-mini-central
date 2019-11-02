@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCM	KEYWORD1
+Mcm_Comandos_Web	KEYWORD1
+Mcm_Leitura_Variaveis_Sensores	KEYWORD1
+Mcm_Pagina_Completa	KEYWORD1
+Mcm_Requisicoes_Web	KEYWORD1
+Mcm_BMP180	KEYWORD1
+Mcm_Datalogger	KEYWORD1
+Mcm_Func_Envio_Dados_I2C	KEYWORD1
+Mcm_RTC_DS1307	KEYWORD1
+Mcm_UVM30A	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+processaPorta	KEYWORD2
+lePortaAnalogica	KEYWORD2
+paginaWeb	KEYWORD2
+getURLRequest	KEYWORD2
+mainPageRequest	KEYWORD2
+lerPressaoAtm	KEYWORD2
+inicializaCartaoSD	KEYWORD2
+cabecalho	KEYWORD2
+abreArquivo	KEYWORD2
+escreveNoCartao	KEYWORD2
+ajustaValores	KEYWORD2
+enviaDadosI2c	KEYWORD2
+mostraRelogio	KEYWORD2
+selecionaDataHora	KEYWORD2
+converteParaBCD	KEYWORD2
+converteParaDecimal	KEYWORD2
+lerIndiceUV	KEYWORD2
+convertByte	KEYWORD2
+######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
